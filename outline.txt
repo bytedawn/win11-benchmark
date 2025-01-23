@@ -1,0 +1,17 @@
+win11-benchmark/
+├── CMakeLists.txt
+├── src/
+│   ├── main.cpp
+│   └── sections/
+│       └── section1/
+│           └── account_policies.cpp
+├── include/
+│   ├── benchmark_engine.h
+│   ├── benchmark_types.h
+│   ├── benchmark_check.h
+│   ├── benchmark_section.h
+│   ├── command_parser.h
+│   └── sections/
+│       └── section1/
+│           └── account_policies.h
+└── README.md

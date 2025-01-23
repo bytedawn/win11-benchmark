@@ -1,0 +1,9 @@
+C:\Mac\Home\Documents\win11-benchmark\src\main.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\main.obj
+C:\Mac\Home\Documents\win11-benchmark\src\command_parser.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\command_parser.obj
+C:\Mac\Home\Documents\win11-benchmark\src\benchmark_engine.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\benchmark_engine.obj
+C:\Mac\Home\Documents\win11-benchmark\src\sections\section1\account_policies.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\account_policies.obj
+C:\Mac\Home\Documents\win11-benchmark\src\sections\section2\security_options.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\security_options.obj
+C:\Mac\Home\Documents\win11-benchmark\src\sections\section4\restricted_groups.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\restricted_groups.obj
+C:\Mac\Home\Documents\win11-benchmark\src\sections\section5\system_services.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\system_services.obj
+C:\Mac\Home\Documents\win11-benchmark\src\sections\section9\windows_firewall_section.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\windows_firewall_section.obj
+C:\Mac\Home\Documents\win11-benchmark\src\sections\section17\advanced_audit_policy_section.cpp;C:\Mac\Home\Documents\win11-benchmark\build\benchmark.dir\Release\advanced_audit_policy_section.obj
